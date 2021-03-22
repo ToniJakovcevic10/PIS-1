@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace tjakov00_PIS
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
